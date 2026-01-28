@@ -49,4 +49,186 @@ With so much information poured out upon us, we are losing sight of the beauty o
 
 ## Product Requirements Document
 
-*PRD to be added - this is the prompt/requirements you submitted to Claude Code when building the app.*
+### Overview
+
+**Product Name**: VocabPlus
+**Platform**: React Native (iOS, Android, Web)
+**Live URL**: https://vocab-plus.vercel.app
+
+A micro-learning vocabulary app with TikTok-style browsing for discovering and memorizing advanced English words.
+
+---
+
+### Problem Statement
+
+People want to expand their vocabulary with sophisticated, less common words but:
+
+- Traditional flashcard apps are boring and feel like work
+- Dictionary apps show definitions but don't teach practical usage
+- No fun, engaging way to learn how words sound in different contexts
+
+---
+
+### Solution
+
+A mobile-first vocabulary learning app that makes word discovery feel like scrolling social media — quick, engaging, and rewarding.
+
+---
+
+### Original Requirements
+
+> "Create me a micro learning TikTok style app for learning new words to expand your vocabulary. Create a database of useful, but less used/advanced words where you swipe through them TikTok style so that you can add them to your vocabulary. Make it fun/gamified, have like an example and a 'how to use it in everyday conversations' section too."
+
+**Additional Requirements**:
+
+- "Say it like a pirate" / "Say it like an old Englishman" fun variations
+- Other creative versions (Shakespeare, Gen Z)
+- Streaks & XP gamification
+- 100 words in initial database
+
+---
+
+### Target Users
+
+- Students preparing for SAT/GRE/GMAT
+- Professionals wanting to sound more articulate
+- English language learners at intermediate+ level
+- Anyone who enjoys word games and self-improvement
+
+---
+
+### Core Features
+
+#### 1. Word Cards
+
+Each word displays:
+
+- **Word** with pronunciation guide
+- **Part of speech** (noun, verb, adjective, etc.)
+- **Definition** — clear, concise meaning
+- **Example sentence** — shows word in context
+- **Everyday usage** — tips for using in real conversations
+- **Fun variations** — same concept expressed as:
+  - 🏴‍☠️ Pirate speak
+  - 🎩 Victorian/Old English gentleman
+  - 🎭 Shakespearean
+  - 💀 Gen Z slang
+
+#### 2. Navigation
+
+- **Tap to reveal**: Word shows first, tap to see definition (tests recall)
+- **Arrow buttons**: Left/right arrows to browse through words
+- **"Next word" button**: Clear CTA to advance
+- **Circular browsing**: Wraps from last word back to first
+
+#### 3. Gamification
+
+- **XP System**:
+  - +10 XP per word viewed
+  - +25 XP bonus when marking a word as "learned"
+- **Levels**: Level up every `level × 100` XP (Level 1 = 100 XP, Level 2 = 200 XP, etc.)
+- **Daily Streaks**: Consecutive days of app usage tracked and displayed
+- **Achievements**: Unlock badges for milestones (first word, 10 words, 3-day streak, etc.)
+
+#### 4. Word Management
+
+- **Save/Favorite**: Heart button to save words for later review
+- **Mark Learned**: Check button to mark words as mastered
+- **Collections**: View saved and learned words in Profile
+
+#### 5. Profile/Stats
+
+- Current level with XP progress bar
+- Stats grid: Streak, Total XP, Words Viewed, Words Learned
+- Lists of saved and learned words
+- Reset progress option
+
+---
+
+### Word Database Requirements
+
+**Total**: 100 advanced vocabulary words
+
+**Categories**:
+
+- Feelings (serendipity, ephemeral, melancholy)
+- Description (ubiquitous, ostentatious, ineffable)
+- Communication (eloquent, loquacious, taciturn)
+- Thinking (pragmatic, perspicacious, quixotic)
+- Action (exacerbate, finagle, prevaricate)
+- People (sycophant, dilettante, juggernaut)
+- Time (ephemeral, nascent, quotidian)
+- Nature (petrichor, bucolic, zephyr)
+- Culture (zeitgeist, schadenfreude, ennui)
+- Knowledge (esoteric, recondite, pedantic)
+
+**Difficulty Levels**: Easy, Medium, Hard
+
+**Each Word Includes**:
+
+- Phonetic pronunciation
+- Clear definition
+- Example sentence
+- Everyday usage tip
+- 4 variation styles (pirate, old English, Shakespeare, Gen Z)
+
+---
+
+### Design Requirements
+
+**Aesthetic**: Oxford Dictionary meets modern minimalism
+
+**Visual Style**:
+
+- Clean, lots of whitespace
+- Elegant serif typography (Georgia) for word content
+- Cream/off-white background (#FFFEF9)
+- Subtle gray borders and dividers
+- Minimal color — only for action states (pink for favorites, green for learned)
+
+**Interactions**:
+
+- Haptic feedback on all taps
+- Smooth transitions between words
+- Reveal animation for definition
+
+---
+
+### Technical Requirements
+
+- **Framework**: React Native with Expo
+- **State Management**: React Context + useReducer
+- **Persistence**: AsyncStorage (local, on-device)
+- **Deployment**: Vercel (web export)
+- **Platforms**: iOS, Android, Web
+
+---
+
+### Success Metrics
+
+- User returns multiple days (streak engagement)
+- Words marked as "learned" increases over time
+- Users explore variation buttons (engagement with fun features)
+- Low bounce rate on web version
+
+---
+
+### Future Enhancements (Not in V1)
+
+- [ ] Spaced repetition quiz mode
+- [ ] Audio pronunciation
+- [ ] Word of the day notifications
+- [ ] Social sharing of favorite words
+- [ ] Custom word lists / import
+- [ ] Cloud sync across devices
+- [ ] Dark mode toggle
+- [ ] Search/filter by category or difficulty
+- [ ] Onboarding tutorial
+
+---
+
+### Version History
+
+| Version | Date | Changes |
+|---------|------|---------|
+| 1.0 | Jan 2025 | Initial release with 100 words, gamification, variations |
