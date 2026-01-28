@@ -4,14 +4,14 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Ty Hoagland" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Ty Hoagland</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://linkedin.com/in/tyler-hoagland" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/tyhoag" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,45 +19,98 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+Hello! My name is Ty Hoagland. Welcome to my PM portfolio. I am 22 years old and I am from Kaysville, Utah. I am a sophomore at Brigham Young University doing all of my prerequisite courses for the Marriott School of Business. I am a big sports fan and an even bigger fan of playing sports. Some of my favorites are Football, Lacrosse, Pickleball, Basketball, and rock climbing. I have a deep love for learning and for people. One of my mantras is that "there is something to be learned from everyone." Thanks for stopping by my portfolio and I hope it inspires you to keep building and creating!
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+**Bachelor of Science in Pre-Business** | Brigham Young University | *Expected Apr 2028*
+
+- GPA: 3.97 / 4.00
+- *Brigham Young University Scholarship*, Academic Half Tuition
+
+**Relevant Coursework**
+
+| Course | Description |
+|--------|-------------|
+| ECON 110 | Economics |
+| FIN 210 | Finance |
+| ACC 200 | Accounting |
+| IS 201 | Information Systems |
+| MKTG 201 | Marketing |
+| STRAT 490 | Creating AI Products |
+
+**Academic Achievements**
+
+- *Bloom X Ballard Center Business for Good Case Competition*, First Place
+- BYU AI in Business Society Member
+- BYU Finance Society Member
+- Eagle Scout, Boy Scouts of America
+- Two-time 6A Academic All-State
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Marketing & Communications Specialist - BYU Ballard Center
+*Mar 2025 – Jun 2025 | Provo, UT*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Evaluated student entrepreneurs for the pre-selection round for a pitch competition vying for $500-24,000
+- Interviewed the Peery Business for Good team to gather pertinent information for website rollout
 
-#### Another Position - Company Name
-*Dates*
+#### On-Campus Intern - Maak Impact
+*Jan 2025 – Apr 2025 | Provo, UT*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Researched donor-growth methods and created a storytelling-based social media plan for a non-profit model
+- Created a financial sustainability plan including market-based solutions and multiple income sources
+
+#### Swim Instructor - Cutler Swim Lessons
+*Summer 2020–2022, 2024 | Centerville, UT*
+
+- Taught swim techniques and strokes to varying levels of student swimmers (160 students per summer)
+- Demonstrated correct form and identified ways to improve student performance
+
+#### Co-founder & Technician - Airhoag Snowsports
+*Winter 2016–2022 | Fruit Heights, UT*
+
+- Managed finances, inventory, and machine operations—communicated with new and existing customers
+- Tuned, edged, and waxed skis and snowboards, coordinated pick-up and delivery of snow gear
+
+### Leadership & Service
+
+#### Volunteer Trip Leader - Humanitarian Experience (HXP)
+*July 2025 | Córdoba, Argentina*
+
+- Led 37 teenagers ages 16-19 to build classrooms at a local soup kitchen and non-profit
+- Taught daily devotionals, encouraged cohort camaraderie, and highlighted appreciation for local culture
+
+#### Volunteer English Teacher - MyHometown Provo
+*Aug 2024 – May 2025 | Provo, UT*
+
+- Taught English to Hispanic adults, focusing on conversational skills, vocabulary, and practical grammar
+- Fostered a fun and inclusive classroom environment to build confidence and encourage participation
+
+#### Volunteer Representative - The Church of Jesus Christ of Latter-day Saints
+*Jul 2022 – Jul 2024 | Santiago, Chile*
+
+- Engaged in leadership training and shared administrative oversight of over 180 full-time representatives
+- Taught and organized lessons on personal growth, relationship building, and how to live a happy life
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+
+- SQL
+- Prompt Engineering
+- Microsoft Office Certified
 
 **Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
-- Strategic thinking and problem-solving
+
+- Public Speaking
+- Interpersonal Communication
+- Hard-working & Impact-driven
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+
+Outside of school and work, I like to be in the outdoors—including snow skiing, wakesurfing, and rock climbing. I spend time playing card and board games with my family and friends. I love music and movies. I enjoy being with people and on a regular Friday or Saturday night I am hottubbing with my friends and chatting.
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+What's next for me is deciding how I can implement all of the new skills I am learning with AI right now! I am applying for the BYU Strategy program this summer and am going to do the Product Management track. I am super stoked for the future and for all of the cool things that are being done in the world right now. I would love to work for a tech company that also has a focus on making a difference in the world for the better.

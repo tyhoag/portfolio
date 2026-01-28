@@ -4,7 +4,7 @@ project:
 
 website:
   title: ""
-  favicon: images/prototyping-favicon.png
+  favicon: images/favicon.svg
   navbar:
     background: primary
     left:
@@ -12,10 +12,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: problems.qmd
+        text: Problems I'm Exploring
       - text: Projects
         menu:
           - href: projects/project-1.qmd
-            text: Name of my first app
+            text: Vocab+
           #- href: projects/project-2.qmd
           #  text: Business Case Presentation
           #- href: projects/project-3.qmd

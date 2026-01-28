@@ -1,24 +1,21 @@
 ---
-title: "Name of the application I have published for Homework 1"
-date: "2024-09-15"
+title: "Vocab+"
+date: "2025-01-28"
 categories: [GitHub, Vercel, Claude Code]
 ---
 
 ## Overview
 
-This project involved using Claude Code to write the code to needed to deveop an app that ...
+Vocab+ is a micro-learning app that helps you learn new words and how to use them. It uses them in context, gives you a definition, and also allows you to see how people of the past would have used those words.
 
-The primary purpose of this app is to:
-
-- ....
-- ....
+With so much information poured out upon us, we are losing sight of the beauty of learning things of value. Reading, writing, and learning how to speak eloquently and persuasively are lost skills and something we all need to develop. Vocab+ aims to bridge the gap between basic language knowledge and elevate users to more refined speech.
 
 ## Live Product Demo
 
 <div class="d-flex justify-content-center gap-3 my-4">
   <!-- Open App button -->
   <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://tetris-game-egc6.vercel.app/"
+     href="https://vocabplus.vercel.app/"
      target="_blank" rel="noopener"
      aria-label="Open live app">
     <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
@@ -27,7 +24,7 @@ The primary purpose of this app is to:
 
   <!-- GitHub Source button -->
   <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/your-user/your-repo"
+     href="https://github.com/tyhoag/vocab-plus"
      target="_blank" rel="noopener"
      aria-label="Open GitHub source">
     <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
@@ -35,20 +32,21 @@ The primary purpose of this app is to:
   </a>
 </div>
 
-<iframe src="https://tetris-game-egc6.vercel.app/"
+<iframe src="https://vocabplus.vercel.app/"
         style="width:100%; height:900px; border:none;"
         allowfullscreen>
 </iframe>
 
 ## Technical Details
 
-Framework/Stack: [e.g., React, Quarto, HTML/CSS/JS]
+**Framework/Stack:** JavaScript (React Native)
 
-Deployment: GitHub Pages + Vercel
+**Deployment:** GitHub + Vercel
 
-Tools Used:
--   Claude Code
+**Tools Used:**
+
+- Claude Code
 
 ## Product Requirements Document
 
-Paste in the PRD that you submitted to Claude Code
+*PRD to be added - this is the prompt/requirements you submitted to Claude Code when building the app.*
