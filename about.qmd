@@ -30,14 +30,14 @@ Hello! My name is Ty Hoagland. Welcome to my PM portfolio. I am 22 years old and
 
 **Relevant Coursework**
 
-| Course | Description |
-|--------|-------------|
-| ECON 110 | Economics |
-| FIN 210 | Finance |
-| ACC 200 | Accounting |
-| IS 201 | Information Systems |
-| MKTG 201 | Marketing |
-| STRAT 490 | Creating AI Products |
+| Course | Learning Outcomes |
+|--------|-------------------|
+| ECON 110 | Analyze market dynamics, compute economic metrics (GDP, CPI, surplus), and evaluate government interventions on efficiency. |
+| FIN 201 | Apply financial analysis tools to evaluate investment projects and inform business decision-making. |
+| ACC 200 | Interpret financial statements (balance sheet, income, cash flows) and use accounting tools for business decisions. |
+| IS 201 | Design databases, automate tasks with programming, analyze/visualize data, and build web applications. |
+| MKTG 201 | Design marketing plans, analyze target markets, and apply marketing tools to create customer value. |
+| STRAT 490 | Build AI products using Claude Code, Supabase, Vercel, GitHub, and Quarto. |
 
 **Academic Achievements**
 
