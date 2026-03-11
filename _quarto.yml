@@ -18,8 +18,8 @@ website:
         menu:
           - href: projects/project-1.qmd
             text: Vocab+
-          #- href: projects/project-2.qmd
-          #  text: Business Case Presentation
+          - href: projects/project-2.qmd
+            text: GymIntelligence
           #- href: projects/project-3.qmd
           #  text: Project 3
           #- href: projects/project-4.qmd
